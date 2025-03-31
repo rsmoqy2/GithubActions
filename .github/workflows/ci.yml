@@ -10,7 +10,7 @@ jobs:
       - name: install dotnet
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.x'
+          dotnet-version: '7.x'
       - name: build
         run: dotnet build
       - name: run unit tests
