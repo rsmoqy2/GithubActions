@@ -1,7 +1,7 @@
-namespace GithubActionsLab;
+namespace GithubActionsLab_smoqy;
 
 [TestClass]
-public class Addition
+public class Addition_smoqy
 {
 	[TestMethod]
 	public void Add_Valid_Patino()

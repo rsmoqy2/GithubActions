@@ -9,7 +9,7 @@
     <RootNamespace>Test</RootNamespace>
 
 
-    <AssemblyName>Tests.Smoqy</AssemblyName>
+    
   </PropertyGroup>
 
   <ItemGroup>
