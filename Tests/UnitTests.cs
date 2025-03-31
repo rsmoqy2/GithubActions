@@ -1,4 +1,4 @@
-namespace GithubActionsLab_smoqy;
+namespace GithubActionsLab;
 
 [TestClass]
 public class Addition_smoqy
